@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.2'
+ruby '2.2.9'
 gem 'rails', '4.2.3'  # for edge Rails instead: gem 'rails', github: 'rails/rails'
 
 gem 'pg', '~> 0.18.3'         # use postgresql as the database for Active Record
